@@ -1,5 +1,5 @@
 local Games = {
-    [527730528] = 'https://raw.githubusercontent.com/Velora-Softworks-LTD/Velora/refs/heads/main/magic%20training.lua'
+    [527730528] = 'https://raw.githubusercontent.com/VeloraSoftworks/Velora/refs/heads/main/Games/magic%20training.lua'
 }
 
 if not game:IsLoaded() then
